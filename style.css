@@ -1,0 +1,29 @@
+body {
+    font-family: 'Manrope', sans-serif;
+}
+
+a.navbar-brand {
+    font-size: 36px;
+}
+
+.navbar .nav-link {
+    color: #535A56;
+}
+
+.navbar .nav-link.active {
+    color: #101913;
+}
+
+.section-hero h1 {
+    font-size: 54px;
+    font-weight: bolder;
+}
+
+.section-hero p {
+    font-size: 14px;
+    color: #535A56;
+}
+
+.btn-danger{
+    background-color: #FF5C00;
+}
